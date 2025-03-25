@@ -22,4 +22,4 @@ Additionally, we used Python’s correlation function to explore the relationshi
 
 **Full Project work book [here.](https://drive.google.com/file/d/1Ujbhgj5IOaii1iC4cDKUABNVXpV7x9B9/view?usp=drive_link)**
 
-**Click [here](https://github.com/Alamin-analyser/Python-GDP-Project) to see another Python Project.**
+**Click [here](https://github.com/Alamin-analyser/Analysing-Visualising-Data-in-Python) to see another Python Project.**
